@@ -31,6 +31,7 @@
             "includePath": [
                 "C:\\Users\\Charlie Van Hook\\Documents\\Code\\Arduino\\Sketches\\DroneController",
                 "C:\\Users\\Charlie Van Hook\\Documents\\Code\\Arduino\\libraries\\**",
+                "C:\\Users\\Charlie Van Hook\\Documents\\Code\\Arduino\\libraries\\MAVLink\\**",
                 "C:\\Users\\Charlie Van Hook\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\libraries\\**",
                 "C:\\Users\\Charlie Van Hook\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-arduino-libs\\idf-release_v5.3-cfea4f7c-v1\\esp32s3\\qio_qspi\\include",
                 "C:\\Users\\Charlie Van Hook\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.1.1\\cores\\esp32",

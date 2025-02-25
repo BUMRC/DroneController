@@ -4,6 +4,7 @@
 #include <WiFi.h>
 #include <LoRa.h>
 #include <SPI.h>
+#include <MAVLink.h>
 
 struct CommConfig {
     bool enableUART;       // Enable UART
